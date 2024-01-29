@@ -20,7 +20,7 @@
 
 title: Christopher Miller
 email: christopherkmiller04@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: | # this means to ignore newlines until "baseurl:"
   Christopher K. Miller Personal Site.
   Pennsylvania State University, Schreyer Honors College 2023
   B.S. Mathematics, B.S. Statistics, Minor Economics
